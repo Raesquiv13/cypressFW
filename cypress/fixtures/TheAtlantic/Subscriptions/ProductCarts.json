@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "details": {
+                "title": "Digital",
+                "price": "49.99",
+                "timeSubs": "for 1 year",
+                "plus": false,
+                "position": 0,
+                "planBenefits": [
+                    "Unlimited access to TheAtlantic.com",
+                    "Subscriber-only newsletter",
+                    "iOS app, digital issues, & more"
+                ]
+            }
+        },
+        {
+            "details": {
+                "title": "Print & Digital",
+                "price": "59.99",
+                "timeSubs": "for 1 year",
+                "plus": true,
+                "position": 1,
+                "planBenefits": [
+                    "Digital subscription",
+                    "10 print issues of the magazine delivered to your door"
+                ]
+            }
+        },
+        {
+            "details": {
+                "title": "Premium",
+                "price": "100",
+                "timeSubs": "for 1 year",
+                "plus": true,
+                "position": 2,
+                "planBenefits": [
+                    "Print & Digital subscription",
+                    "Ad-free web browsing & podcasts",
+                    "Free digital gift subscription",
+                    "Discounts on Atlantic products & priority access to events"
+                ]
+            }
+        }
+    ]
+}

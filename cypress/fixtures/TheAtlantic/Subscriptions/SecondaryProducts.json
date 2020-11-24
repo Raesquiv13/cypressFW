@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "title": "Gift Subscriptions",
+            "description": "Share a year’s worth of ideas and insights with a fellow reader.",
+            "buttonTxt": "Give The Atlantic"
+        },
+        {
+            "title": "Academic Rate",
+            "description": "Students and Educators save 50% on an Atlantic subscription.",
+            "buttonTxt": "Learn More"
+        }
+    ]
+}
