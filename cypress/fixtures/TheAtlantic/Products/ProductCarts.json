@@ -11,7 +11,8 @@
                     "Unlimited access to TheAtlantic.com",
                     "Subscriber-only newsletter",
                     "iOS app, digital issues, & more"
-                ]
+                ],
+                "plan":"plan_digital_standard"
             }
         },
         {
@@ -24,7 +25,8 @@
                 "planBenefits": [
                     "Digital subscription",
                     "10 print issues of the magazine delivered to your door"
-                ]
+                ],
+                "plan":"plan_print_standard"
             }
         },
         {
@@ -39,7 +41,8 @@
                     "Ad-free web browsing & podcasts",
                     "Free digital gift subscription",
                     "Discounts on Atlantic products & priority access to events"
-                ]
+                ],
+                "plan":"plan_premium_standard"
             }
         }
     ]
